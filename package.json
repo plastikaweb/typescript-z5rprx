@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/crypto-js": "^3.1.43",
+    "crypto-js": "^4.0.0"
+  }
+}
